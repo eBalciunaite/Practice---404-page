@@ -3,7 +3,7 @@
 Independent practice project - 404 page. 
 
 ## Site published:
-https://ebalciunaite.github.io/Practice---404-page/.
+https://ebalciunaite.github.io/Practice---404-page/
 
 ## Project features:
 - Basic HTML and CSS
