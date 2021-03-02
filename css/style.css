@@ -19,7 +19,7 @@ div{
     width: 600px;
     margin-left: 100px;
     text-align: center;
-    font-family:Courier New;
+    font-family:'Courier New', Courier, monospace;
 }
 
 .gohome {
@@ -33,6 +33,7 @@ div{
 	font-family:Courier New;
 	font-size:17px;
 	font-weight:bold;
+	text-transform: uppercase;
 	padding:7px 8px;
 	text-decoration:none;
     margin-left: 12px;
